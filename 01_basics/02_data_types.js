@@ -21,3 +21,6 @@ console.table([name,age,degree])
 console.log(typeof null); // object (is a type of OBJECT)
 console.log(typeof undefined); // undefined (because it is a type in JS)
 
+// NON-PRIMITIVE DATA-TYPES 
+// object 
+// array 
