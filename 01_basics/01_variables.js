@@ -10,7 +10,7 @@ console.log(percentage);
 let student = "Raj Patil"
 std_id = "69"
 branch = "CSE"
-
-console.table([student,std_id,branch,percentage,marks,bank_id])
+let presenty;
+console.table([student,std_id,branch,percentage,marks,bank_id, presenty])
 
 // Prefer not to use "var" because os issue in block scope
