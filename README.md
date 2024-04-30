@@ -1,1 +1,1 @@
-# JavaScript-learn-from-strach
+# JavaScript-learn-from-scrach
