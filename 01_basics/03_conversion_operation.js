@@ -27,3 +27,27 @@ console.log(typeof NewData3, NewData3);
 // 1 => true 
 // 0 => false 
 // "rxjpatil" => true 
+
+
+// *********************  Operations  ************************ 
+value = 7
+NigValue = -value
+console.log(NigValue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2**2);
+
+str1 = "Hello"
+str2 = " Moto"
+
+str3 = str1 + str2
+console.log(str3);
+
+console.log("1"+2); // op-12
+console.log("1"+"2"); // op-12
+console.log(1+"2"); // op-12
+console.log("1"+2+2); // op-122
+console.log(1+2+"2"); //op-32 
