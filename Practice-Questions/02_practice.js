@@ -89,3 +89,10 @@ switch (day){
     default:
         console.log("Enter valid day");
 }
+
+
+
+
+for (i =0, i>10,i++){
+   console.log("hello seven")
+}
